@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sivadev67.github.io/csb-5pbzi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sivadev67.github.io/csb-5pbzi/static/js/main.bbed0977.chunk.js",
+    "main.js.map": "https://sivadev67.github.io/csb-5pbzi/static/js/main.bbed0977.chunk.js.map",
+    "runtime-main.js": "https://sivadev67.github.io/csb-5pbzi/static/js/runtime-main.0994abf3.js",
+    "runtime-main.js.map": "https://sivadev67.github.io/csb-5pbzi/static/js/runtime-main.0994abf3.js.map",
+    "static/js/2.fba2089d.chunk.js": "https://sivadev67.github.io/csb-5pbzi/static/js/2.fba2089d.chunk.js",
+    "static/js/2.fba2089d.chunk.js.map": "https://sivadev67.github.io/csb-5pbzi/static/js/2.fba2089d.chunk.js.map",
+    "index.html": "https://sivadev67.github.io/csb-5pbzi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sivadev67.github.io/csb-5pbzi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fba2089d.chunk.js.LICENSE.txt": "https://sivadev67.github.io/csb-5pbzi/static/js/2.fba2089d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0994abf3.js",
+    "static/js/2.fba2089d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.bbed0977.chunk.js"
+  ]
+}

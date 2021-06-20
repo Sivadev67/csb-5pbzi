@@ -1,0 +1,2 @@
+(this["webpackJsonpdank-sunset"]=this["webpackJsonpdank-sunset"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var s=t(1),c=t(3),r=t.n(c),d=(t(8),t(0));function i(){return Object(d.jsxs)("div",{className:"App",children:[Object(d.jsx)("h1",{children:"Hello CodeSandbox"}),Object(d.jsx)("h2",{children:"made private"})]})}var a=document.getElementById("root");r.a.render(Object(d.jsx)(s.StrictMode,{children:Object(d.jsx)(i,{})}),a)},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.bbed0977.chunk.js.map
